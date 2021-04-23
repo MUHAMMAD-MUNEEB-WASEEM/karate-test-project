@@ -1,6 +1,6 @@
 # karate-test-project
 
-Api is just a way to communicate between client and server
+Api is just a way to communicate between client and server. It is used to fetch or send the data
 
 ## Starting commands:
 
